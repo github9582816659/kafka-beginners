@@ -1,0 +1,18 @@
+
+<
+java:S1452'"&Remove usage of generic wildcard type.(¼Ê©·
+E
+java:S3740*"/Provide the parametrized type for this generic.(±Ù¯ã
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(÷¹å×ýÿÿÿÿ
+T
+java:S1905)"2Remove this unnecessary cast to "ConsumerFactory".(´ùÁûÿÿÿÿ8çÈôÐ‹/
+n
+java:S1602)"SRemove useless curly braces around statement and then remove useless return keyword(´ùÁûÿÿÿÿ
+G
+java:S1602.",Remove useless curly braces around statement(ÎÛóþÿÿÿÿÿ
+„
+java:S1488N"iImmediately return this expression instead of assigning it to the temporary variable "simpleRetryPolicy".(Ìî•ðüÿÿÿÿ
+J
+java:S3740("/Provide the parametrized type for this generic.(«‚•ïüÿÿÿÿ
+<
+java:S1452'"&Remove usage of generic wildcard type.(¼Ê©·

@@ -1,0 +1,13 @@
+
+i
+java:S1192%"GDefine a constant instead of duplicating this literal "    {
+" 6 times.(Ÿñ¼Ñÿÿÿÿÿ8¢úù£Œ/
+W	java:S125"<This block of commented-out lines of code should be removed.(ˆÏ¡L8Ééù£Œ/
+Z
+java:S1068"8Remove this unused "twitterEventProducer" private field.(‡¦º–øÿÿÿÿ8Ééù£Œ/
+e
+java:S1192)"HDefine a constant instead of duplicating this literal "    },
+" 5 times.(¥ÁÊÁ8¢úù£Œ/
+O
+java:S6126"2Replace this String concatenation with Text block.(·¹„Œ8¢úù£Œ/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ê¾ú®8¢úù£Œ/

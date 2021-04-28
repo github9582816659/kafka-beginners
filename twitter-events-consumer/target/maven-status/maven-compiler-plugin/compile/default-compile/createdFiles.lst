@@ -1,0 +1,3 @@
+com/kafka/consumer/consumer/LibraryEventConsumer.class
+com/kafka/consumer/LibraryEventsConsumerApplication.class
+com/kafka/consumer/config/LibraryEventConsumerConfig.class

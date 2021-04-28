@@ -1,0 +1,3 @@
+/home/choudhary/work/github/kafka-beginners/twitter-events-producer/src/main/java/com/kafka/producer/TwitterProducerApplication.java
+/home/choudhary/work/github/kafka-beginners/twitter-events-producer/target/generated-sources/avro/com/example/Customer.java
+/home/choudhary/work/github/kafka-beginners/twitter-events-producer/src/main/java/com/kafka/producer/producer/TwitterEventProducer.java
